@@ -1,4 +1,4 @@
-package com.example.learn.listTwo;
+package com.example.learn.semester1.listTwo;
 
 import java.util.ArrayList;
 import java.util.Iterator;

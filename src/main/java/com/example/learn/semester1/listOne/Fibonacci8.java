@@ -1,4 +1,4 @@
-package com.example.learn.listOne;
+package com.example.learn.semester1.listOne;
 
 import java.io.BufferedReader;
 import java.io.IOException;

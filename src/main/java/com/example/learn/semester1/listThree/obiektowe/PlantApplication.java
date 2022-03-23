@@ -1,4 +1,4 @@
-package com.example.learn.listThree.obiektowe;
+package com.example.learn.semester1.listThree.obiektowe;
 
 public class PlantApplication {
     public static void main(String[] args) {

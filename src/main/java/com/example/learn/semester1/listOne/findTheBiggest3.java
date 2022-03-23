@@ -1,4 +1,4 @@
-package com.example.learn.listOne;
+package com.example.learn.semester1.listOne;
 
 import java.util.OptionalInt;
 import java.util.stream.IntStream;

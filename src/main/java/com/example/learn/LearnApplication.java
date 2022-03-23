@@ -1,9 +1,7 @@
 package com.example.learn;
 
-import com.example.learn.listTwo.AplikacjaOsoba5;
-import com.example.learn.listTwo.Osoba;
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+import com.example.learn.semester1.listTwo.AplikacjaOsoba5;
+import com.example.learn.semester1.listTwo.Osoba;
 
 public class LearnApplication {
 

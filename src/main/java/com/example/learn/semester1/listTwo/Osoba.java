@@ -1,4 +1,4 @@
-package com.example.learn.listTwo;
+package com.example.learn.semester1.listTwo;
 
 public class Osoba implements Comparable<Osoba> {
     private Long pesel;

@@ -1,4 +1,4 @@
-package com.example.learn.listThree.tablicePlusLosowanie;
+package com.example.learn.semester1.listThree.tablicePlusLosowanie;
 
 import java.util.Arrays;
 import java.util.Random;
