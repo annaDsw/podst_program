@@ -7,7 +7,7 @@ import java.util.Random;
 public class Losowanie3 {
     public static void main(String[] args) throws java.lang.Exception {
         //wygeneruj Y losowych liczb
-        int y = 10;
+        int y = 100;
         //generuj z przedziału 1-X
         int x = 15;
         Map<Integer,Integer> wynikiLosowania = new HashMap<>();
